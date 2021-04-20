@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Web Service Exercise</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="add_points">ADD points</string>
+    <string name="dannon">DANNON</string>
+    <string name="unilever">UNILEVER</string>
+    <string name="miller_coors">MILLER COORS</string>
+    <string name="spend_points">Spend Points</string>
+</resources>
